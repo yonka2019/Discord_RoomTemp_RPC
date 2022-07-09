@@ -20,6 +20,5 @@
             public const string LARGE_IMAGE_KEY = "";
             public const string SMALL_IMAGE_KEY = "";
         }
-
     }
 }
