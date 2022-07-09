@@ -60,8 +60,9 @@ namespace Discord_RoomTemp_RPC
                     State = $"{roomTemperature} °C",
                     Assets = new Assets()
                     {
-                        LargeImageKey = Data.Discord.IMAGE_KEY,
-                        LargeImageText = "By Yonka",
+                        LargeImageKey = Data.Discord.LARGE_IMAGE_KEY,
+                        SmallImageKey = Data.Discord.SMALL_IMAGE_KEY,
+                        SmallImageText = "By Yonka"
                     }
                 });
                 await Task.Delay(Data.Settings.UPDATE_INTERVAL_MS);
