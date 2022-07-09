@@ -4,7 +4,7 @@
     {
         internal static class Settings
         {
-            public const int UPDATE_INTERVAL_MS = 5000;
+            public const int UPDATE_INTERVAL_MS = 60000; // 60000 / 60 (sec) / 1000 (ms) = 1 minute
         }
 
         internal static class Tuya
