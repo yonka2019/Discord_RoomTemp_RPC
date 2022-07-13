@@ -3,4 +3,4 @@ Program which passes the temperature from T&H Tuya Smart Device to discord state
 
 similar project with which shows weather in city: [Discord_Weather_RPC](https://github.com/yonka2019/Discord_Weather_RPC)
 # Preview
-![alt text](https://i.ibb.co/CPM7ntr/photo1.png)
+![preview1](https://i.ibb.co/CPM7ntr/photo1.png)
